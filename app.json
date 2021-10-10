@@ -9,9 +9,9 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/TeamUltroid/Ultroid",
-    "website": "https://ultroid.tech",
-    "success_url": "https://t.me/TheUltroid",
+    "repository": "https://github.com/irash1234567/userbot",
+    "website": "https://pluto123gaming.godaddysites.com",
+    "success_url": "https://t.me/ULTRONBOTS",
     "stack": "container",
     "env": {
         "API_ID": {
