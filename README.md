@@ -99,7 +99,7 @@ Different ways to get your `SESSION`:
 * Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
 * TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
 
-Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid). <br />
+Made with 💕 by [@ULTRON](https://t.me/ULTRONBOTS). <br />
 
 # License
 Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
@@ -109,5 +109,5 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 # Credits
 * [![TeamUltroid-Devs](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/UltroidDevs)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
-* [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
+* [MarshalX](https://github.com/irash1234567/userbot) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
 
